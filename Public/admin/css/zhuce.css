@@ -1,0 +1,53 @@
+ *{margin:0;padding:0;}
+        body{background:#F9F9F9;text-align:center;font-size:14px;color:#666;}
+        .sz a,.button,b,.sz p{
+            cursor:pointer;
+        }
+        .main{
+            display:inline-block;
+            margin-top:20px;
+            background:white;
+            width:858px;height:550px;
+        }
+        .font_p{
+            margin:30px 0;
+            font-size:34px;
+
+        }
+        .shuru{
+            width:333px;
+            height:270px;
+            display:inline-block;
+        }
+        .text1{
+            width:333px;
+            height:43px;
+            
+            border:1px solid #E9E9E9;
+        }
+        .shuru p{
+            text-align:left;
+        }
+        .button{
+            width:336px;
+            height:45px;
+            background:#FF6700;
+            border:1px;
+            color:white;
+        }
+       b{color:black;}
+       .icon{
+        display:inline-block;
+        width:20px;
+        height:19px;
+        background:url(Public/admin/image/index.png);
+       }
+       .bu a{margin:0 5px;}
+       a[o]{color:#111;}
+       .bu a:hover{color:#111;}
+       .icic{
+        display:inline-block;
+        width:19px;
+        height:19px;
+        background:url(Public/admin/image/ghs.png);
+    }

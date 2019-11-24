@@ -1,0 +1,40 @@
+body{margin:0;color:#666;font-size:14px;}
+	a,.f_l,.f_r{cursor:pointer;}
+	.header{width:100%;height:100px;}
+	.bodyer{height:565px;width:1350px;
+			background:url(../img/denglu/d123.jpg) -610px 0;
+			display:inline-block;
+		}
+		.ID{width:410px;height:515px;background:white;margin:23px 100px auto 830px;text-align:center;padding:30px 0}
+		.denglu{font-size:24px;color:#666;}
+		.input{width:347px;height:50px;border:1px solid #333;}
+		input[n]{margin:34px auto 14px}
+		.dl{width:351px;height:52px;background:#f56600;color:white;border:0px;margin:30px auto 10px;}
+		.f_row{width:347px;margin-left:32px;}
+		.f_l{float:left; color:#f56600}
+		.f_r{float:right;}
+		hr{display:inline-block;}
+		a[icon]{
+			width:30px;
+			height:30px;
+
+			display:inline-block;
+			margin:0 15px;
+			border-radius:50%;
+			font-size:30px;
+		}
+		.footer{
+			height:83px;
+			text-align:center;
+		}
+		.ff1{
+			margin:93px auto 13px;
+		}
+		.ff1 a{margin:0 10px}
+		.ff1 a:hover{color:#333;}
+		.icic{
+			display:inline-block;
+			width:20px;
+			height:20px;
+			background:url(image/ghs.png);
+		}
